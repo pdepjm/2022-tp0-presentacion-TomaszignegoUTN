@@ -6,6 +6,4 @@ Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vQko
 
 Buenas, soy Tomi y esta es mi chachorra cali.
 
-![mi foto](foto PDEP.jpg)
-
-
+![mi foto](foto.jpeg)
